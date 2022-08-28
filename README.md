@@ -1,3 +1,3 @@
-# React e TypeScript
+# React, MaterialUI e TypeScript
 
-Projeto de estudo com ReactJS e TypeScript da Full Cycle.
+Projeto de estudo com ReactJS, MaterialUI e TypeScript da Full Cycle.
